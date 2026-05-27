@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👩🏽‍💻 Ingride Martins
 
-<!--
-**iamingride/iamingride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Cybersecurity Junior`**
 
-Here are some ideas to get you started:
+Hello, Strange! I am Ingride Martins! 
+I am a Computer Engineering Student, curious and passionate about technology and innovations.
+At this moment I am deepening my studies and knowledge in Cybersecurity and its main tools. 
+And I'm creating a portfolio to better describe my skills and knowledge. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - -
+
+### 💻 Languages
+
+<img 
+    align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="JAVASCRIPT"
+    title="JAVASCRIPT"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="JAVA"
+    title="JAVA"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>    
+
+<br/>
+<br/>
+
+- - -
+
+### ⚙️Tools
+
+<img 
+    align="left"
+    alt="NOTION"
+    title="NOTION"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="TRELLO"
+    title="TRELLO"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
+/>
+
+<br/>
+<br/>
+
+- - -
+
+### 🌐Operating Systems
+
+<img 
+    align="left"
+    alt="WINDOWS"
+    title="WINDOWS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="UBUNTU"
+    title="UBUNTU"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="MAC OS"
+    title="MAC OS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
+/>
+<br/>
+<br/>
