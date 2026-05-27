@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Ingride Martins
 
-**`Analista de Cybersecurity Junior`**
+**`Junior Cybersecurity Analyst`**
 
 Hello, Strange! I am Ingride Martins! 
 I am a Computer Engineering Student, curious and passionate about technology and innovations.
