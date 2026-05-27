@@ -6,6 +6,7 @@ Hello, Strange! I am Ingride Martins!
 <br/>
 <br/>
 I am a Computer Engineering Student, curious and passionate about technology and innovations.
+<br/>
 At this moment I am deepening my studies and knowledge in Cybersecurity and its main tools. 
 And I'm creating a portfolio to better describe my skills and knowledge. 
 
